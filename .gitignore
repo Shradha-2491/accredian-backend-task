@@ -3,3 +3,5 @@ build
 node_modules
 log
 log/api.log
+# Local Netlify folder
+.netlify
